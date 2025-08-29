@@ -24,7 +24,7 @@
 ---
 
 ## 📑 Presentation
-[다운로드 PPT](Contaimination-Checker.pptx)
+[다운로드 PPT](Contamination-Chcker.pptx)
 
 ---
 
