@@ -1,4 +1,4 @@
-# 🧴 Plastic Contamination Detection (플라스틱 오염 판별 AI)
+# ⚪ Plastic Contamination Detection (플라스틱 오염 판별 AI)
 
 플라스틱 표면에 음식물 등의 오염이 **묻었는지/안 묻었는지**를 AI로 판별하는 프로젝트입니다.  
 재활용 과정에서 **깨끗한 플라스틱과 오염된 플라스틱을 자동으로 분류**하는 것을 목표로 합니다.
@@ -24,7 +24,7 @@
 ---
 
 ## 📑 Presentation
-[다운로드 PPT](project_presentation.pptx)
+[다운로드 PPT](Contaimination-Checker.pptx)
 
 ---
 
