@@ -7,7 +7,7 @@
 
 ## 📺 Demo
 시연 영상을 확인하세요 👇  
-- [시연 영상 보기](https://youtu.be/your-demo-link)  
+- [시연 영상 보기](https://www.youtube.com/watch?v=GeqZw-C0jCM)  
 
 ---
 
